@@ -7,3 +7,4 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 Ideas for site:
 Hashing function of some sort. 
+Draw spinning rat with tensors.
