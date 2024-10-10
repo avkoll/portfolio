@@ -9,3 +9,4 @@ Ideas for site:
 Hashing function of some sort. 
 Draw spinning rat with tensors.
 Gray codes and hamilton circuits.
+Dijkstra’s algorithm sorting.
