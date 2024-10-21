@@ -6,7 +6,8 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 
 Ideas for site:
-Hashing function of some sort. 
-Draw spinning rat with tensors.
-Gray codes and hamilton circuits.
-Dijkstra’s algorithm sorting.
+Hashing function of some sort.\
+Draw spinning rat with tensors.\
+Gray codes and hamilton circuits.\
+Dijkstra’s algorithm sorting.\
+Bottom banner have: © 2001-2024 Andrew Koller
